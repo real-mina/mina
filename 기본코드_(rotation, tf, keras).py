@@ -5,6 +5,8 @@ Created on Wed Dec  4 17:25:20 2019
 @author: stu8
 """
 
+# 고쳤음 
+
 ################### 로데티션 ##########################################
 from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
 
